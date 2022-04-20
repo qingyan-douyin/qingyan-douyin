@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qingyan-douyin
-- 👀 I’m interested in write code(写代码)
+- 👀 I’m interested in write code
 - 🌱 I’m currently learning C & C++
 
 <!---
