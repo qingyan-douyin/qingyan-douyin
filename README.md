@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @qingyan-douyin
-- 👀 I’m interested in write code
-- 🌱 I’m currently learning C & C++
-
-<!---
-qingyan-douyin/qingyan-douyin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 嗨害嗨，我是清炎
+- 👀 我对编程感兴趣
+- 🌱 我在学习C语言
+- 🌱 是一名社恐人士
